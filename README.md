@@ -1,5 +1,7 @@
 # Real Estate NFT DApp
 
+This tutorial is by DappUniversity: https://github.com/dappuniversity/millow
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
